@@ -4,9 +4,9 @@ flask:
     LOG_LEVEL: debug
 
 database:
-    USER: USERNAME
+    USER: datascience
     HOST: localhost
-    # PASSWORD: PASSWORD
+    PASSWORD: datascience
 
 uwsgi:
     master: true
